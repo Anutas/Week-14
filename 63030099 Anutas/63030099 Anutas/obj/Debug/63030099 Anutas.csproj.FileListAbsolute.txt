@@ -1,0 +1,9 @@
+C:\Users\ASUS\Week-14\63030099 Anutas\63030099 Anutas\bin\Debug\63030099 Anutas.exe.config
+C:\Users\ASUS\Week-14\63030099 Anutas\63030099 Anutas\bin\Debug\63030099 Anutas.exe
+C:\Users\ASUS\Week-14\63030099 Anutas\63030099 Anutas\bin\Debug\63030099 Anutas.pdb
+C:\Users\ASUS\Week-14\63030099 Anutas\63030099 Anutas\obj\Debug\63030099 Anutas.csproj.AssemblyReference.cache
+C:\Users\ASUS\Week-14\63030099 Anutas\63030099 Anutas\obj\Debug\_63030099_Anutas.Properties.Resources.resources
+C:\Users\ASUS\Week-14\63030099 Anutas\63030099 Anutas\obj\Debug\63030099 Anutas.csproj.GenerateResource.cache
+C:\Users\ASUS\Week-14\63030099 Anutas\63030099 Anutas\obj\Debug\63030099 Anutas.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Week-14\63030099 Anutas\63030099 Anutas\obj\Debug\63030099 Anutas.exe
+C:\Users\ASUS\Week-14\63030099 Anutas\63030099 Anutas\obj\Debug\63030099 Anutas.pdb
